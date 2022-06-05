@@ -1,2 +1,9 @@
-123
-345
+ {
+  "ID" : "Bug ID",
+  "Summary" : "Short description of the bug",
+	"Environment" : "Link to the build/version of Software and all of the environment",
+	"Steps to reproduce" : "Full and detailed list of steps to reproduce",
+	"Expected result" : "What result should have been without error",
+	"Actual result" : "What was the actual result",
+  "Attachments" : "Logs, screenshots, video"
+}
